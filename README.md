@@ -2,3 +2,4 @@
 Starter Code
 Demo question answered in class
 Question 2 - multiply 
+Question 3 - sum and multiply 
